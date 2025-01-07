@@ -48,7 +48,7 @@ export const Profile = () => {
                         quality={100}
                         src="/salim image.jpg"
                         alt="Profile Picture"
-                        className="rounded-full w-full h-full object-cover border-2"
+                        className="rounded-full md:h-[250px]  md:w-[250px] object-cover border-2"
                         />
                             {/* <Image
                                 width={100}
