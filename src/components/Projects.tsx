@@ -16,13 +16,13 @@ export const projects = [
         title: "Venue Booking System",
         description: "Developed a full-stack web application with user, admin, and super admin panels .Implement authentication, authorization, and Razorpay integration for payment gateway Technologies: HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, MongoDB, EJS ",
         tech: "EJS,Express.js MongoDB",
-        link: "#",
+        link: "https://elegantbooking.onrender.com/",
     },
     {
         title: "Chat Application",
         description: "An interactive Chat application using React, Socket.io, Mongodb,Express.js . login functionality, user profile, and real-time chat functionality",
         tech: "MERN Socket.io",
-        link: "salimchat.netlify.app",
+        link: "https://salimchat.netlify.app/",
     },
     {
         title: "Weather Forecasting webPage",
