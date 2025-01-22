@@ -25,10 +25,10 @@ export const projects = [
         link: "https://salimchat.netlify.app/",
     },
     {
-        title: "Weather Forecasting webPage",
-        description: "Built a weather forecasting web page using OpenWeatherMap API and React.js. Used CSS Grid and Flexbox for layout and responsiveness",
-        tech: "javascript",
-        link: "#",
+        title: "URL Shortening Website",
+        description: "Developed a platform that allows users to generate short, shareable links.Built with Next.js for fast rendering and efficient URL management.Implemented a user-friendly interface for seamless link creation",
+        tech: "Next.js",
+        link: "https://shortbysalim.netlify.app/",
     },
 ]
 
@@ -38,6 +38,9 @@ const techColors = {
     "EJS,Express.js MongoDB": "bg-pink-500",
     "MERN Socket.io": "bg-green-500",
     "Express.js": "bg-purple-500",
+ 
+    "Next.js": "bg-black",
+
 }
 
 export const Projects = () => {
