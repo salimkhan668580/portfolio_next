@@ -8,12 +8,12 @@ import { JobImages } from "@/components/JobImages";
 
 const jobs = [
     {
-        role: "MERN Stack intern", // TODO: Replace with actual role
+        role: "Software Develper", // TODO: Replace with actual role
         company: "Mobulous Technology pvt.ltd ", // TODO: Replace with actual company name
         logo: "/mobu.jpg", // TODO: Replace with actual logo
         duration: "2024 - Present",
         description:
-            "Worked as a MERN Stack intern, involved in the development and maintenance of web applications using MongoDB, Express.js, React, and Node.js. Collaborated with the team on implementing new features and improving the performance of existing applications. Gained hands-on experience with full-stack development and working in an agile environment.",
+            "Worked as a Software Develper, involved in the development and maintenance of web applications using MongoDB, Express.js, React, and Node.js. Collaborated with the team on implementing new features and improving the performance of existing applications. Gained hands-on experience with full-stack development and working in an agile environment.",
         link: "https://www.mobulous.com/",
         images: [
             "/mob_web.png",
